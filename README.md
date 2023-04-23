@@ -1,2 +1,6 @@
 # CS250-Sprint-Review
 CS250 8-3 Journal. Sprint Review and Retrospective
+
+
+  To interpret and implement user needs into a program, it is vital to understand the consumer and what they are truly looking for in a product. This can be done through things such as user stories, a user story is a user's perspective that outlines the pain points and goals for using the type of product we are building. This becomes essential when you realize that these are the type of people who will use your product, and to satisfy them will be to satisfy the general populous. Involving users in the design and requirements aspect of the building is an incredibly powerful tool that can keep your project in touch with the reality of what users need.
+  Looking at project development, utilizing agile processes can raise efficiency, colloboration, and overal quality. This can be done through prioritizng communication, flexibility, and constant prototyping/testing as the project iterates through the many steps. Agile tools include Scrum, Kanban, and many oithers that are geared towards transparency and ease of communication to ensure the team is one the same page through all steps. This allows each member to be a good team member by holding everybody accountable. The team will be in sync and have each indiviudal member taking ownership and commited to delivering high quality results.
